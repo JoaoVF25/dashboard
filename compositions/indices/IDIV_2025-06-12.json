@@ -1,0 +1,281 @@
+{
+  "index_type": "IDIV",
+  "reference_date": "2025-06-12",
+  "created_at": "2025-06-12T12:05:38.322185",
+  "total_assets": 53,
+  "data": [
+    {
+      "Ativo": "CMIG4",
+      "Peso": 5.233,
+      "Peso_Formatado": "5.23%"
+    },
+    {
+      "Ativo": "PETR4",
+      "Peso": 5.189,
+      "Peso_Formatado": "5.19%"
+    },
+    {
+      "Ativo": "PETR3",
+      "Peso": 4.919,
+      "Peso_Formatado": "4.92%"
+    },
+    {
+      "Ativo": "ITSA4",
+      "Peso": 4.103,
+      "Peso_Formatado": "4.10%"
+    },
+    {
+      "Ativo": "CPLE3",
+      "Peso": 4.064,
+      "Peso_Formatado": "4.06%"
+    },
+    {
+      "Ativo": "CPLE6",
+      "Peso": 4.018,
+      "Peso_Formatado": "4.02%"
+    },
+    {
+      "Ativo": "VALE3",
+      "Peso": 3.871,
+      "Peso_Formatado": "3.87%"
+    },
+    {
+      "Ativo": "ITUB3",
+      "Peso": 3.841,
+      "Peso_Formatado": "3.84%"
+    },
+    {
+      "Ativo": "BBSE3",
+      "Peso": 3.771,
+      "Peso_Formatado": "3.77%"
+    },
+    {
+      "Ativo": "ITUB4",
+      "Peso": 3.517,
+      "Peso_Formatado": "3.52%"
+    },
+    {
+      "Ativo": "TIMS3",
+      "Peso": 3.477,
+      "Peso_Formatado": "3.48%"
+    },
+    {
+      "Ativo": "GGBR4",
+      "Peso": 3.463,
+      "Peso_Formatado": "3.46%"
+    },
+    {
+      "Ativo": "BBDC4",
+      "Peso": 3.452,
+      "Peso_Formatado": "3.45%"
+    },
+    {
+      "Ativo": "BBDC3",
+      "Peso": 3.4,
+      "Peso_Formatado": "3.40%"
+    },
+    {
+      "Ativo": "BBAS3",
+      "Peso": 3.282,
+      "Peso_Formatado": "3.28%"
+    },
+    {
+      "Ativo": "EGIE3",
+      "Peso": 2.819,
+      "Peso_Formatado": "2.82%"
+    },
+    {
+      "Ativo": "KLBN11",
+      "Peso": 2.744,
+      "Peso_Formatado": "2.74%"
+    },
+    {
+      "Ativo": "ISAE4",
+      "Peso": 2.488,
+      "Peso_Formatado": "2.49%"
+    },
+    {
+      "Ativo": "CXSE3",
+      "Peso": 2.35,
+      "Peso_Formatado": "2.35%"
+    },
+    {
+      "Ativo": "CMIN3",
+      "Peso": 2.248,
+      "Peso_Formatado": "2.25%"
+    },
+    {
+      "Ativo": "CPFE3",
+      "Peso": 2.057,
+      "Peso_Formatado": "2.06%"
+    },
+    {
+      "Ativo": "TAEE11",
+      "Peso": 2.032,
+      "Peso_Formatado": "2.03%"
+    },
+    {
+      "Ativo": "SAPR11",
+      "Peso": 1.817,
+      "Peso_Formatado": "1.82%"
+    },
+    {
+      "Ativo": "CSNA3",
+      "Peso": 1.71,
+      "Peso_Formatado": "1.71%"
+    },
+    {
+      "Ativo": "MRFG3",
+      "Peso": 1.648,
+      "Peso_Formatado": "1.65%"
+    },
+    {
+      "Ativo": "GOAU4",
+      "Peso": 1.644,
+      "Peso_Formatado": "1.64%"
+    },
+    {
+      "Ativo": "FLRY3",
+      "Peso": 1.589,
+      "Peso_Formatado": "1.59%"
+    },
+    {
+      "Ativo": "STBP3",
+      "Peso": 1.527,
+      "Peso_Formatado": "1.53%"
+    },
+    {
+      "Ativo": "POMO4",
+      "Peso": 1.345,
+      "Peso_Formatado": "1.34%"
+    },
+    {
+      "Ativo": "CSMG3",
+      "Peso": 1.22,
+      "Peso_Formatado": "1.22%"
+    },
+    {
+      "Ativo": "DIRR3",
+      "Peso": 1.209,
+      "Peso_Formatado": "1.21%"
+    },
+    {
+      "Ativo": "CURY3",
+      "Peso": 1.106,
+      "Peso_Formatado": "1.11%"
+    },
+    {
+      "Ativo": "BRAP4",
+      "Peso": 1.088,
+      "Peso_Formatado": "1.09%"
+    },
+    {
+      "Ativo": "UNIP6",
+      "Peso": 0.836,
+      "Peso_Formatado": "0.84%"
+    },
+    {
+      "Ativo": "ODPV3",
+      "Peso": 0.75,
+      "Peso_Formatado": "0.75%"
+    },
+    {
+      "Ativo": "BRSR6",
+      "Peso": 0.651,
+      "Peso_Formatado": "0.65%"
+    },
+    {
+      "Ativo": "VLID3",
+      "Peso": 0.524,
+      "Peso_Formatado": "0.52%"
+    },
+    {
+      "Ativo": "VULC3",
+      "Peso": 0.501,
+      "Peso_Formatado": "0.50%"
+    },
+    {
+      "Ativo": "LEVE3",
+      "Peso": 0.434,
+      "Peso_Formatado": "0.43%"
+    },
+    {
+      "Ativo": "JHSF3",
+      "Peso": 0.418,
+      "Peso_Formatado": "0.42%"
+    },
+    {
+      "Ativo": "ABCB4",
+      "Peso": 0.416,
+      "Peso_Formatado": "0.42%"
+    },
+    {
+      "Ativo": "GRND3",
+      "Peso": 0.391,
+      "Peso_Formatado": "0.39%"
+    },
+    {
+      "Ativo": "KEPL3",
+      "Peso": 0.39,
+      "Peso_Formatado": "0.39%"
+    },
+    {
+      "Ativo": "EVEN3",
+      "Peso": 0.372,
+      "Peso_Formatado": "0.37%"
+    },
+    {
+      "Ativo": "AGRO3",
+      "Peso": 0.36,
+      "Peso_Formatado": "0.36%"
+    },
+    {
+      "Ativo": "TGMA3",
+      "Peso": 0.317,
+      "Peso_Formatado": "0.32%"
+    },
+    {
+      "Ativo": "FESA4",
+      "Peso": 0.308,
+      "Peso_Formatado": "0.31%"
+    },
+    {
+      "Ativo": "LAVV3",
+      "Peso": 0.242,
+      "Peso_Formatado": "0.24%"
+    },
+    {
+      "Ativo": "PLPL3",
+      "Peso": 0.238,
+      "Peso_Formatado": "0.24%"
+    },
+    {
+      "Ativo": "RANI3",
+      "Peso": 0.217,
+      "Peso_Formatado": "0.22%"
+    },
+    {
+      "Ativo": "BRBI11",
+      "Peso": 0.196,
+      "Peso_Formatado": "0.20%"
+    },
+    {
+      "Ativo": "JSLG3",
+      "Peso": 0.109,
+      "Peso_Formatado": "0.11%"
+    },
+    {
+      "Ativo": "SYNE3",
+      "Peso": 0.089,
+      "Peso_Formatado": "0.09%"
+    }
+  ],
+  "metadata": {
+    "date": "2025-06-12",
+    "source": "B3 Oficial",
+    "notes": "",
+    "uploaded_by": "Streamlit User",
+    "file_type": "CSV"
+  },
+  "total_weight": 99.99999999999997
+}
